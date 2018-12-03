@@ -1,1 +1,1 @@
-#These are the training files
+#These are the training files (power point presentations)
